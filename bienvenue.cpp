@@ -1,7 +1,8 @@
+#include <iostream>
+using namespace std;
 
-// TODO Indiquer ce que fait le programme
-int main()
-{
-// TODO Afficher un message de bienvenue
-return 0;
+int main() {
+    cout << "Bienvenue dans Git!" << endl;
+    return 0;
 }
+
