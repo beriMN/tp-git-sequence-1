@@ -1,8 +1,7 @@
+// Affiche un message de bienvenue
 #include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Bienvenue dans Git!" << endl;
-    return 0;
+int main()
+{
+std::cout << "Bienvenue le monde !" << std::endl;
+return 0;
 }
-
